@@ -2,7 +2,7 @@
 A learning project as part of the second course of Blockchain Specialization offered by offered by The University at Buffalo.
 <br />
 
-## Speicalization Certificate Screenshot
+## Specialization Certificate Screenshot
 ![picture](certificate.png)
 
 <br />
