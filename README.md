@@ -9,4 +9,4 @@ A learning project as part of the second course of Blockchain Specialization off
 
 ## Project
 
-Auction Smart Contract Project <br />
+Auction Smart Contract Project. <br />
